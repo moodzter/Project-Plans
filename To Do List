@@ -7,17 +7,21 @@ TO DO LIST
   - Make a footer component
   - Make a header component
   - Add styling 
-    - home   -mauricio
-    - show(all)
-    - show(one)
-    - createb - nick
-    - edit
-    - footer
-    - header
+    - [ X ] home -mauricio
+    - [ X ] show(all)
+    - [   ] show(one)
+    - [ X ] createb - nick
+    - [   ] edit
+    - [   ] footer
+    - [ X ] nav bar
     
     
-  -
-  -
+  - stretch goals: 
+   - checkout(buy a card/comic) 
+   - add cost to schema
+   - 
+   -
+   
   -
   -
   
