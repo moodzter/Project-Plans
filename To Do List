@@ -1,0 +1,23 @@
+TO DO LIST
+ ====== ====== ====== ====== ====== ====== ====== ====== ====== ====== ====== ====== ====== ======
+  - Make a component for create (details in other readme).     - nick
+  - Make a component for showing all comics
+  - Inside of show, make a component to show each specific one. (author, description, img, all parts of schema)
+  - Eventually make a edit form, either inside of the show component or it's own component. 
+  - Make a footer component
+  - Make a header component
+  - Add styling 
+    - home
+    - show(all)
+    - show(one)
+    - createb - nick
+    - edit
+    - footer
+    - header
+    
+    
+  -
+  -
+  -
+  -
+  
