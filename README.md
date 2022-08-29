@@ -93,4 +93,16 @@ something we can list out
       comment sections - stretch
     
     
+    CONTROLLERS ======>
+        One component for creating comics (create.js or somethiing)
+        One component for showing all the existing () mapping and displaying them with info on the card. (limited info
+          superhero name, comic img, show more button. 
+        show more button (probably gonna be it's own component) we will want a delete button. We can also add a edit button inside of that component.
+          We can decide when we get to it if we want to make it it's own component or just put it right there in that one.
+          
+        We could probably also add a component for our header, if we wanted to display and show things such as links. (like a nav bar). Because
+          components somewhat act as partials in that sense. 
+        Also probably add another component for a footer in case we want if it'll work with our data. 
+        
+    
     
